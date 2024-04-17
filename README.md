@@ -14,25 +14,24 @@ Welcome to my GitHub profile 🙏🏼
 
 ---
 ### Profile Summary
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Willy-nyawira&label=Profile%20views&color=0e75b6&style=flat" alt="Willy-nyawira" /> </p>
-As a dedicated actuary with a strong background in financial modeling, valuation analysis, and business intelligence, I am driven by a passion for leveraging technology to tackle complex challenges. My diverse skill set includes expertise in statistics, mathematics, and data science, complemented by hands-on experience in software development.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Willy-nyawira&label=Profile%20views&color=0e75b6&style=flat" alt="Stephen-Kuria" /> </p>
+I'm Stephen Kuria, an accomplished actuary and financial expert with a solid foundation in actuarial science a first-class honors degree from Karatina University. Over five years at Equity Bank, I honed my skills in bank operations, insurance, money transfers, audit, account management, marketing, and digitization. My expertise extends to data science and business intelligence, where I've applied advanced statistical methods, machine learning, and NLP to drive strategic decision-making.
 
 **Actuarial and Financial Expertise:**
-With a focus on actuarial science, I have successfully completed the Financial Modeling and Valuation Analyst (FMVA) certification, demonstrating proficiency in financial modeling, business forecasting, and valuation techniques. My analytical skills extend to risk assessment, ensuring informed decision-making in financial contexts.
-I have worked in a financial institution with experience in bank operations,insurance,money transfers,audit,account management,marketing and digitization.
+With a focus on actuarial science, Additionally, I hold a CPA certification and am adept at Oracle application development, evidenced by my role as an Oracle Application Developer at E&M Technology House Ltd. I've also earned a badge in Oracle Cloud Infrastructure Architect Associate. Committed to continuous learning, I actively seek opportunities to expand my skill set and stay updated on industry trends.
 
 **Data Science and Business Intelligence:**
-In addition to my actuarial background, I bring a wealth of experience in data science and business intelligence. I have applied advanced statistical methods, machine learning, and natural language processing (NLP) to derive meaningful insights from data. My portfolio showcases projects that demonstrate my ability to harness data for strategic decision-making.I also possess a certification in Business Intelligence and Data Analysis-BIDA.
+In addition to my actuarial background, I bring a wealth of experience in data science and business intelligence. I have applied advanced statistical methods, machine learning, and natural language processing (NLP) to derive meaningful insights from data. My portfolio showcases projects that demonstrate my ability to harness data for strategic decision-making.
 
 **Continuous Learning and Growth:**
 Embracing a mindset of lifelong learning, I stay abreast of industry trends and advancements. My commitment to personal and professional growth is reflected in my proactive approach to acquiring new skills and exploring emerging technologies.
 
 **Collaboration and Impact:**
-I am dedicated to making a meaningful impact at the intersection of actuarial science, data science, and software development. My GitHub portfolio showcases my contributions and projects, demonstrating my commitment to excellence. If you share a vision for collaborative innovation and lasting impact, I invite you to reach out for potential collaboration at 📫 stephenkuria732@gmail.com.
+With a passion for leveraging technology to solve complex challenges, I am dedicated to making a meaningful impact through collaborative innovation. My GitHub portfolio showcases my contributions and projects, reflecting my commitment to excellence. For potential collaboration or inquiries, feel free to contact me at 📫 stephenkuria732@gmail.com.
 
 Let's embark on a journey of mutual growth and professional advancement.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Willy-nyawira" alt="Willy-Nyawira" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Willy-nyawira" alt="Stephen-Kuria" /></a> </p>
 
 #### Professional Links:
 
@@ -44,7 +43,7 @@ Let's embark on a journey of mutual growth and professional advancement.
 ## Domains of Interests & Expertise
 :comet: Actuarial Science <br>
 :comet: Statistics <br>
-:comet: FMVA <br>
+:comet: Oracle Cloud Infrastructure and AWS <br>
 :comet: Software Developer <br>
 :comet: Business Intelligence <br>
 :comet: Data Analysis <br>
@@ -53,6 +52,9 @@ Let's embark on a journey of mutual growth and professional advancement.
 
 ---
 ## Skills 
+:comet: Oracle Application developer
+:comet: Oracle cloud networking expert
+:comet: Angular developer
 
 
 ### Languages, Libraries, Tools and Frameworks:<br>
@@ -76,7 +78,7 @@ Let's embark on a journey of mutual growth and professional advancement.
     <!-- <img src="./Images/Icons/SageMaker-300x150.jpg" height="30"> -->
     <!-- <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30"> -->
     <img src="./Images/Icons/Git-Logo-2Color.png" height="30">
-    <!-- <img src="./Images/Icons/Twilio-logo-red.svg.png" height="30">
+    <!-- <img src="./Images/Icons/Twilio-logo-red.svg.png" height="30"> -->
     <img src="./Images/Icons/Trello-logo-blue.svg.png" height="30"> -->
     <!-- <img src="./Images/Icons/Microsoft_Office_logo_(2019–present).svg" height="30"> -->
     <!-- <img src="./Images/Icons/Microsoft_Office_Excel_(2019–present).svg.png" height="30"> -->
