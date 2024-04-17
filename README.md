@@ -1,4 +1,4 @@
-# Hi 👋🏼, I am Willy Nyawira!
+# Hi 👋🏼, I am Stephen Kiiru Kuria!
 
 Welcome to my GitHub profile 🙏🏼
 
@@ -28,7 +28,7 @@ In addition to my actuarial background, I bring a wealth of experience in data s
 Embracing a mindset of lifelong learning, I stay abreast of industry trends and advancements. My commitment to personal and professional growth is reflected in my proactive approach to acquiring new skills and exploring emerging technologies.
 
 **Collaboration and Impact:**
-I am dedicated to making a meaningful impact at the intersection of actuarial science, data science, and software development. My GitHub portfolio showcases my contributions and projects, demonstrating my commitment to excellence. If you share a vision for collaborative innovation and lasting impact, I invite you to reach out for potential collaboration at 📫 nyawiramwangi394@gmail.com.
+I am dedicated to making a meaningful impact at the intersection of actuarial science, data science, and software development. My GitHub portfolio showcases my contributions and projects, demonstrating my commitment to excellence. If you share a vision for collaborative innovation and lasting impact, I invite you to reach out for potential collaboration at 📫 stephenkuria732@gmail.com.
 
 Let's embark on a journey of mutual growth and professional advancement.
 
