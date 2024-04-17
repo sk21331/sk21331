@@ -14,7 +14,7 @@ Welcome to my GitHub profile 🙏🏼
 
 ---
 ### Profile Summary
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Willy-nyawira&label=Profile%20views&color=0e75b6&style=flat" alt="Stephen-Kuria" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk21331&label=Profile%20views&color=0e75b6&style=flat" alt="Stephen-Kuria" /> </p>
 I'm Stephen Kuria, an accomplished actuary and financial expert with a solid foundation in actuarial science a first-class honors degree from Karatina University. Over five years at Equity Bank, I honed my skills in bank operations, insurance, money transfers, audit, account management, marketing, and digitization. My expertise extends to data science and business intelligence, where I've applied advanced statistical methods, machine learning, and NLP to drive strategic decision-making.
 
 **Actuarial and Financial Expertise:**
@@ -31,12 +31,12 @@ With a passion for leveraging technology to solve complex challenges, I am dedic
 
 Let's embark on a journey of mutual growth and professional advancement.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Willy-nyawira" alt="Stephen-Kuria" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk21331" alt="Stephen-Kuria" /></a> </p>
 
 #### Professional Links:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/willynyawira/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Willy-Nyawira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stephen-kuria-77914bb4/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/sk21331)
 
 
 ---
